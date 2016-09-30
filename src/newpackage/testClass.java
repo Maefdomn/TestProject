@@ -2,6 +2,6 @@ package newpackage;
 
 public class testClass {
 	
-	Integer testVariable = null;
+	Integer testVariable = 0;
 
 }
